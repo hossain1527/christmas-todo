@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/christmas-todo/static/css/main.d1e41370.chunk.css",
+    "main.js": "/christmas-todo/static/js/main.77c52926.chunk.js",
+    "main.js.map": "/christmas-todo/static/js/main.77c52926.chunk.js.map",
+    "runtime-main.js": "/christmas-todo/static/js/runtime-main.b581864a.js",
+    "runtime-main.js.map": "/christmas-todo/static/js/runtime-main.b581864a.js.map",
+    "static/css/2.8b8a7056.chunk.css": "/christmas-todo/static/css/2.8b8a7056.chunk.css",
+    "static/js/2.fe3a7e15.chunk.js": "/christmas-todo/static/js/2.fe3a7e15.chunk.js",
+    "static/js/2.fe3a7e15.chunk.js.map": "/christmas-todo/static/js/2.fe3a7e15.chunk.js.map",
+    "index.html": "/christmas-todo/index.html",
+    "static/css/2.8b8a7056.chunk.css.map": "/christmas-todo/static/css/2.8b8a7056.chunk.css.map",
+    "static/css/main.d1e41370.chunk.css.map": "/christmas-todo/static/css/main.d1e41370.chunk.css.map",
+    "static/js/2.fe3a7e15.chunk.js.LICENSE.txt": "/christmas-todo/static/js/2.fe3a7e15.chunk.js.LICENSE.txt",
+    "static/media/1.388a3e4c.jpg": "/christmas-todo/static/media/1.388a3e4c.jpg",
+    "static/media/2.9ab88c06.jpg": "/christmas-todo/static/media/2.9ab88c06.jpg",
+    "static/media/3.4065823f.jpg": "/christmas-todo/static/media/3.4065823f.jpg",
+    "static/media/4.7aed5e99.jpg": "/christmas-todo/static/media/4.7aed5e99.jpg",
+    "static/media/5.f9ddc033.jpg": "/christmas-todo/static/media/5.f9ddc033.jpg",
+    "static/media/6.50bec4ef.jpg": "/christmas-todo/static/media/6.50bec4ef.jpg",
+    "static/media/ch5.d0a573f4.gif": "/christmas-todo/static/media/ch5.d0a573f4.gif",
+    "static/media/tenor.f85ab90f.gif": "/christmas-todo/static/media/tenor.f85ab90f.gif",
+    "static/media/tenor1.6ace3024.gif": "/christmas-todo/static/media/tenor1.6ace3024.gif",
+    "static/media/tenor5.d95816d1.gif": "/christmas-todo/static/media/tenor5.d95816d1.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b581864a.js",
+    "static/css/2.8b8a7056.chunk.css",
+    "static/js/2.fe3a7e15.chunk.js",
+    "static/css/main.d1e41370.chunk.css",
+    "static/js/main.77c52926.chunk.js"
+  ]
+}
